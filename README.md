@@ -9,9 +9,9 @@ Fitness website to be linked with a fitness app. Started as a school project.
 *Completely responsive design using Bootstrap
 
 #Screenshots
-![Welcome section](../../tree/master/img/screenshots/screen1.jpg?raw=true)
-![Registration form](../../tree/master/img/screenshots/screen2.jpg?raw=true)
-![Contact form](../../tree/master/img/screenshots/screen3.jpg?raw=true)
-![Login popup](../../tree/master/img/screenshots/screen4.jpg?raw=true)
-![Responsive design](../../tree/master/img/screenshots/screen5.jpg?raw=true)
-![Dashboard section](../../tree/master/img/screenshots/screen6.jpg?raw=true)
+![Welcome section](../../master/img/screenshots/screen1.jpg?raw=true)
+![Registration form](../../master/img/screenshots/screen2.jpg?raw=true)
+![Contact form](../../master/img/screenshots/screen3.jpg?raw=true)
+![Login popup](../../master/img/screenshots/screen4.jpg?raw=true)
+![Responsive design](../../master/img/screenshots/screen5.jpg?raw=true)
+![Dashboard section](../../master/img/screenshots/screen6.jpg?raw=true)
