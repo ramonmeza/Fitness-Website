@@ -2,6 +2,7 @@
 Fitness website to be linked with a fitness app. Started as a school project.
 
 View LIVE demo here! http://metiri.github.io/Fitness-Website/
+
 TO SEE DASHBOARD USE THIS LINK: http://metiri.github.io/Fitness-Website/dashboard.html
 
 Since this is hosted on GitHub, MySQL database is non-functional. 
